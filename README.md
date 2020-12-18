@@ -26,7 +26,7 @@ The study of the second phenomenon will allow us to see if our use of social net
 
 ## Social networks studied
 
-In our data story, we will use data from 4 social networks: <b>Twitter, Stack Overflow, Reddit and Baidu</b>. We will present these social networks and then we will look in more detail at the datasets we were able to use for each social network.
+In our data story, we will use data from 4 social networks: <b>Twitter, Stack Overflow, Weibo and Reddit</b>. We will present these social networks and then we will look in more detail at the datasets we were able to use for each social network.
 
 <div class="container">
     <div class="row" style="background-color: #1DA1F2;">
@@ -122,7 +122,7 @@ Now let's take a look at how the users of these different social networks use th
 
 <p style="text-align:center;"><img src="static/images/ccdf.png"></p>
 
-In these graphs we recognize that the <b>distribution of the number of posts/comments per user is a power law.</b> This observation is particularly true for the Stack Overflow data. On <b>Stack Overflow</b> we have a very representative set of data since we have all the data of the site since its creation, and we notice that <b>we can approximate the distribution by a straight line in log-log scale, a characteristic sign of power lays.</b>
+In these graphs we recognize that the <b>distribution of the number of posts/comments per user is a power law.</b> This observation is particularly true for the Stack Overflow data. On <b>Stack Overflow</b> we have a very representative set of data since we have all the data of the site since its creation, and we notice that <b>we can approximate the distribution by a straight line in log-log scale, a characteristic sign of power laws.</b>
 
 As we can see, in most social networks, <b>about half of the people didn't share any content and the big majority of them only post a small amount of the content.</b> You probably recognize yourself in this remark, <b>many of us use some social networks in a passive way</b>. Using Stack Overflow just by looking at the answers to other questions, on twitter browse your feed without posting or look at the best reddit memes without posting any.  
 
@@ -190,8 +190,8 @@ To do so, let's observe some elements that characterize the <b>trends in behavio
 Based on the graphs, some observations can be made:
 <ul>
   <li><b>Usage drops across all platforms at night</b>, and increases in the morning.</li>
-  <li>While for <b>Twitter and Weibo</b>, usage continues to increase during the day and lowers at night, starting at around 9pm, the trend seems to differ for Reddit and StackOverflow. For these platforms, <b>the activity drops earlier</b>, at around 2pm for Reddit and 3pm for StackOverflow.</li>
-  <li>StackOverflow is a work-oriented platform, these observations are in line with the usage we expect. The <b>users are mainly active during work hours (9pm-5am)</b>. We can even see little drops at lunch time. </li>
+  <li>While for <b>Twitter and Weibo</b>, usage continues to increase during the day and lowers at night, starting at around 9pm, the trend seems to differ for Reddit and Stack Overflow. For these platforms, <b>the activity drops earlier</b>, at around 2pm for Reddit and 3pm for Stack Overflow.</li>
+  <li>Stack Overflow is a work-oriented platform, these observations are in line with the usage we expect. The <b>users are mainly active during work hours (9pm-5am)</b>. We can even see little drops at lunch time. </li>
   <li>The same remark as the previous one can be made about Reddit even if it can be surprising considering that it is a social network that contains all kinds of contents. </li>
 </ul>
 
@@ -200,7 +200,7 @@ Based on the graphs, some observations can be made:
 When we look at the peak usage of our networks, we see that peak of user activity is quite different across our 4 websites:
 <ul>
 <li>The number of comments on our Reddit data reaches its <b>peak at around 10am.</b></li>
-<li>Stackoverflow number of comments and active users are <b>relatively stable across the workday (9am-4pm) but there are significant peaks around 10am and 3pm.</b></li>
+<li>Stack Overflow number of comments and active users are <b>relatively stable across the workday (9am-4pm) but there are significant peaks around 10am and 3pm.</b></li>
 <li>The number of posts on Weibo climbs all day long and <b>peaks at around 10pm.</b></li>
 <li>The number of posts on Twitter climbs in the morning, <b>stabilizes between 12am-2pm then continues to grow until 8pm</b>.</li>
 </ul>
@@ -271,12 +271,12 @@ After having studied the activity related to the posts and comments, let's dive 
   </body> 
 </html>
 
-The distribution of active users by time of day and day of the week <b>does not differ dramatically to the posts</b>. We can still note a few interesting observations. For Twitter the number of active users <b>does not increase as fast as the number of tweets during the day</b>. It seems that people tend to tweet more at the end of the day. For StackOverFlow,<b> the peaks in number of comments correspond to the peak in active users</b>. Finally for Weibo, trends are very similar across both of the distributions.
+The distribution of active users by time of day and day of the week <b>does not differ dramatically to the posts</b>. We can still note a few interesting observations. For Twitter the number of active users <b>does not increase as fast as the number of tweets during the day</b>. It seems that people tend to tweet more at the end of the day. For Stack OverFlow,<b> the peaks in number of comments correspond to the peak in active users</b>. Finally for Weibo, trends are very similar across both of the distributions.
 
 ## Weekday vs Weekend : let’s fight !
 
 Moreover, we can observe how those trends vary across the week.
-On Twitter, <b>we see that usage tends to stay similar from sunday to thursday.</b> On fridays and saturdays, we can observe a decrease in usage. In fact, while there is only about 2% more usage during the week than on weekends, <b>there are 6% more posts between Sundays and Thursdays then there are on Fridays and Saturdays.</b>
+On Twitter, <b>we see that usage tends to stay similar from sunday to thursday.</b> On fridays and saturdays, we can observe a decrease in usage. In fact, while there is only about 2% more usage during the week than on weekends, <b>there are 6% more posts between Sundays and Thursdays than there are on Fridays and Saturdays.</b>
 
 On Weibo, the difference is not very significant as well. We could observe a 3% increase in usage on the weekdays compared to weekends.
 
@@ -289,7 +289,7 @@ These last two observations could be explained by the nature of the websites. Fo
 
 ## Stack Overflow : a true friend
 
-We all regularly use stack overflow, when we have a question about a dark java bug, to learn more about certain libraries, or to find out how to better use pandas for our ADA assignment. <b>Have you ever wondered what was the best time to get a quick answer to your question?</b> We have asked ourselves that question. 
+We all regularly use Stack Overflow, when we have a question about a dark java bug, to learn more about certain libraries, or to find out how to better use pandas for our ADA assignment. <b>Have you ever wondered what was the best time to get a quick answer to your question?</b> We have asked ourselves that question. 
 
 As we have seen previously <b>depending on the time and the day, the activity on the social networks is not the same.</b> On some social networks activity is high in the morning and then drops off in the evening, while other social networks have a different usage pattern. 
 
