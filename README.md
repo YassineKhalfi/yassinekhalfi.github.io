@@ -318,7 +318,7 @@ If we have one piece of advice to give you is to <b>ask your questions at night<
 
 Nevertheless, <b>no matter what time of day or day of the week you have a good chance of getting a response on Stack Overflow.</b>
 
-# 5. Conclusion
+# Conclusion
 
 To conclude, we were able to see that in terms of the use of social networks, <b>there are points of similarity as well as major differences.</b> Thus if in most social networks we could see that they were <b>mainly based on the activity of a restricted group of users - the power users -</b>, we could also see that the rhythm of use of the networks could be very different. Even if this last point may seem obvious, <b>we can see that the dynamics of use are very strong and this can be an element to help us keep control over social networks</b> or for companies in their commerciall activity.
 
