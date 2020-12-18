@@ -301,13 +301,6 @@ Nevertheless, <b>no matter what time of day or day of the week you have a good c
 # 5. Conclusion
 Through this project, we first observe that the <b>tweets are representative of the ideologies of the different parties</b>. The keywords used, the top tweets and the topics addressed match their beliefs. Indeed, Twitter became a direct way for politicians to communicate with their followers. Moreover politicians are mostly coherent in their beliefs, whatever the channel of information. We also notice that <b>all the parties increased their discussion about climate</b>. In 2015, climate only represented 6% of the topics addressed and was only the top topic for the two green parties. In 2019, it is the main topic for four parties and represents approximately 34% of the topics addressed, which corresponds to a five times increase from 2015. Finally, <b>only the green parties increased their representation in the Swiss parliament</b> in 2019. The population preferred to vote for parties that were already talking about climate in 2015. How might this trend evolve over the next 4 years ?
 
-<div id="adaImage" align="center">
-    <br>
-    <img src="static/images/Ada_Marra.jpg" height="340" width="410">
-    <br>
-    <b>Ada</b> Marra, Swiss politician
-</div>
-
 
 <br>
 <footer style="background-color: #d32f2f">
@@ -316,13 +309,13 @@ Through this project, we first observe that the <b>tweets are representative of 
             <div class="col text-white text-center">
                 <p>
                     <br>
-                    Deniz Ira, Isabelle Pumford, Arthur Vignon & Robin Zbinden
+                    Yassine Khallfi, Charles David Sasportes, Kamyar Taher
                     <br>
                     <button id="ada"><b>ADA</b></button>, EPFL
                     <br>
-                    <a href="https://github.com/ArthurVignon/ADA_project_RADI"><b>GitHub Repository</b></a>
+                    <a href="https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_adatada"><b>GitHub Repository</b></a>
                     •
-                    <a href="https://github.com/alcarinn/alcarinn.github.io"> <b> Website Repository </b> </a>
+                    <a href="https://github.com/YassineKhalfi/yassinekhalfi.github.io"> <b> Website Repository </b> </a>
                     <br>
                     <b>Theme </b>
                     <a href="https://github.com/chibicode/duo">duo</a>
@@ -338,7 +331,7 @@ Through this project, we first observe that the <b>tweets are representative of 
 
 
 
-<a href="https://github.com/ArthurVignon/ADA_project_RADI" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;">
+<a href="https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_adatada" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;">
         <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
         <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor"
             style="transform-origin: 130px 106px;" class="octo-arm"></path>
