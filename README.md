@@ -120,7 +120,7 @@ In our data story, we will use data from 4 social networks: <b>Twitter, Stack Ov
 
 Now let's take a look at how the users of these different social networks use them. <b>Did they really use it as a social interaction tool as it is suggested by the name? Or do people use it more as a "fast food" content consumption service?</b> In order to have a better idea of this, we can look at the distribution of the number of posts by user.
 
-GRAPH
+<img src="static/images/ccdf.png" width="500" height="600">
 
 As we can see, in most social networks, <b>about half of the people didn't share any content and the big majority of them only post a small amount of the content.</b> You probably recognize yourself in this remark, <b>many of us use some social networks in a passive way</b>. Using Stack Overflow just by looking at the answers to other questions, on twitter browse your feed without posting or look at the best reddit memes without posting any.  
 
